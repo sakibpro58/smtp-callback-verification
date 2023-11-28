@@ -1,6 +1,7 @@
 {
 	"ImportPath": "bitbucket.org/GlassyMedia/smtp-callback-verification",
-	"GoVersion": "go1.2.1",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
 	"Deps": [
 		{
 			"ImportPath": "github.com/ant0ine/go-json-rest/rest",
